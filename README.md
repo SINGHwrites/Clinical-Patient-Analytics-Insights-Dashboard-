@@ -12,6 +12,19 @@ A complete analytics workflow was built using Python, integrating multiple clini
 
 ---
 
+## 🚀 Dataset Source
+Dataset: Patient Records 100K patients · 15 conditions
+Source: Kaggle
+Author: Sergey Nefedov
+Records: 100,000 patients
+Time Coverage: 2018–2024
+Files: 5 CSV datasets
+Type: Synthetic Electronic Health Records (EHR)
+
+Dataset Link: https://www.kaggle.com/datasets/sergionefedov/patient-records-100k-patients-15-conditions
+
+---
+
 ## 🚀 Key Highlights
 
 * Processed **750K+ patient-level healthcare records**
